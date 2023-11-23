@@ -15,6 +15,7 @@ About the Project
 | In fact, according to a recent interview survey .. [1]_ , there have been cases where the installation of fine dust reduction devices in outdoor spaces has led to a sense of relief. Furthermore, according to the Busan Institute of Health and Environment .. [2]_ , the economic impact of policies aimed at reducing fine dust, including a potential decrease in the number of fatalities, is estimated to be as high as 582.5 billion KRW. 
 | Therefore, based on the analysis results, positive outcomes can be anticipated not only in terms of economic benefits from fine dust reduction but also in terms of addressing citizens' discomfort, enhancing public health, and improving convenience for citizens.
 
+
 Installation
 ------------
 To install Our Project, use the following command to clone our Git:
