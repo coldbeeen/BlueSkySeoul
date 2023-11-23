@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'opensource'
-copyright = '2023, Lee jun beom'
-author = 'Lee jun beom'
+copyright = '2023, Blue Sky Seoul'
+author = 'Blue Sky Seoul'
 
 # The full version, including alpha/beta/rc tags
 release = '0'
