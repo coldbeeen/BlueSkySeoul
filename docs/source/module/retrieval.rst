@@ -81,6 +81,7 @@ Contributing
 ------------
 | Found a bug? Please reporting bug to the next email (jach1206@naver.com) !
 | Got a great idea? Please send to the next email (ultrajsb@naver.com) !
+| Any questions? Please send me an e-mail (sjuds19@gmail.com) !
 
 Version History
 ---------------
