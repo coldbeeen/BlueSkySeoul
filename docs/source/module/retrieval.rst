@@ -80,7 +80,7 @@ limitations under the License.
 Contributing
 ------------
 | Found a bug? Please reporting bug to the next email (jach1206@naver.com) !
-| Got a great idea? Please send to the next email (ultra@naver.com) !
+| Got a great idea? Please send to the next email (ultrajsb@naver.com) !
 
 Version History
 ---------------
