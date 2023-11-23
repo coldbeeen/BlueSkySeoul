@@ -12,7 +12,6 @@ Welcome to opensource's documentation!
    :caption: Contents:
 
    module/retrieval
-   module/io
 
 
 
