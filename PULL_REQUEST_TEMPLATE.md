@@ -19,7 +19,7 @@ Fixes # (issue)
 - [ ] This PR fixes a typo or improves the docs (you can dismiss the other checks if that's the case).
 - [ ] Did you read the [contributor guideline](https://github.com/coldbeeen/BlueSkySeoul/blob/main/CONTRIBUTING.md),
       Pull Request section?
-- [ ] Was this discussed/approved via a Github issue or the [forum](https://discuss.huggingface.co/)? Please add a link
+- [ ] Was this discussed/approved via a Github issue or the [forum](https://groups.google.com/g/blueskyseoul)? Please add a link
       to it if that's the case.
 - [ ] Did you make sure to update the documentation with your changes? Here are the
       [documentation guidelines](https://github.com/coldbeeen/BlueSkySeoul/tree/main/docs).
