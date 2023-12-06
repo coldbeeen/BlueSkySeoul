@@ -43,6 +43,7 @@ Furthermore, according to the Busan Institute of Health and Environment [2], the
 Therefore, based on the analysis results, positive outcomes can be anticipated not only in terms of economic benefits from fine dust reduction but also in terms of addressing citizens' discomfort, enhancing public health, and improving convenience for citizens.
 
 [1] https://www.etnews.com/20200602000213
+
 [2] http://www.bosa.co.kr/news/articleView.html?idxno=2195298
 
 
