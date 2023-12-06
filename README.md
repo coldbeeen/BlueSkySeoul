@@ -39,7 +39,9 @@ ii. Road cleaning vehicle routes by clustering the top 100 stops for getting on 
 
 ### The Impact
 Benefit from our project: If the findings of this report are incorporated into policy, it is expected that the improvement of citizen's policy satisfaction rate will be evident, as the persistent issue of reducing fine dust is something that citizens can directly feel. In fact, according to a recent interview survey [1], there have been cases where the installation of fine dust reduction devices in outdoor spaces has led to a sense of relief. 
+
 Furthermore, according to the Busan Institute of Health and Environment [2], the economic impact of policies aimed at reducing fine dust, including a potential decrease in the number of fatalities, is estimated to be as high as 582.5 billion KRW. 
+
 Therefore, based on the analysis results, positive outcomes can be anticipated not only in terms of economic benefits from fine dust reduction but also in terms of addressing citizens' discomfort, enhancing public health, and improving convenience for citizens.
 
 [1] https://www.etnews.com/20200602000213
