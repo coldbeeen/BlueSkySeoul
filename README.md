@@ -41,17 +41,23 @@ ii. Road cleaning vehicle routes by clustering the top 100 stops for getting on 
 Benefit from our project: If the findings of this report are incorporated into policy, it is expected that the improvement of citizen's policy satisfaction rate will be evident, as the persistent issue of reducing fine dust is something that citizens can directly feel. In fact, according to a recent interview survey [1], there have been cases where the installation of fine dust reduction devices in outdoor spaces has led to a sense of relief. 
 Furthermore, according to the Busan Institute of Health and Environment [2], the economic impact of policies aimed at reducing fine dust, including a potential decrease in the number of fatalities, is estimated to be as high as 582.5 billion KRW. 
 Therefore, based on the analysis results, positive outcomes can be anticipated not only in terms of economic benefits from fine dust reduction but also in terms of addressing citizens' discomfort, enhancing public health, and improving convenience for citizens.
+
 [1] https://www.etnews.com/20200602000213
 [2] http://www.bosa.co.kr/news/articleView.html?idxno=2195298
 
 
 
 ## Code Explanation
-- 그냥 ipunb니까 코랩이든 어디든 쉽게 돌릴 수 있음
 
-## Preferred Development Language(s):
+### Preferred Development Languages
 We'll be using Python, which has powerful libraries and a rich ecosystem that makes it easy to collect, analyze, and visualize data.
-Python libraries to use in this project.
+
+IPYNB stands for "Interactive Python Notebook." It is a file format and associated software application used for interactive computing. IPYNB files are often referred to as Jupyter Notebooks, named after the Jupyter open-source project that supports them.
+
+A Jupyter Notebook is an open-source web application that allows you to create and share documents containing live code, equations, visualizations, and narrative text. It supports various programming languages, but it is most commonly used with Python.
+
+
+### Python libraries to use in this project
 
 - Pandas
 - Matplotlib.pyplot
@@ -64,11 +70,7 @@ Python libraries to use in this project.
 
 ## Team Member's Info
 
-- Taeho Kim
-  Team Leader, Data Visualization
-- Chanbeen Lee
-  Data Preprocessing, Modeling
-- Seulbeen Je
-  EDA, Data Preprocessing
-- Junbeom Lee
-  Data Visualization, Data Crawling
+- Taeho Kim: Team Leader, Data Visualization
+- Chanbeen Lee: Data Preprocessing, Modeling
+- Seulbeen Je: EDA, Data Preprocessing
+- Junbeom Lee: Data Visualization, Data Crawling
