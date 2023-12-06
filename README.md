@@ -6,7 +6,7 @@ Main aim: First, using data related to city buses, we identify areas with high p
 
 documetation link: https://blueskyseoul.readthedocs.io/en/latest/
 
-
+Korean version: https://github.com/coldbeeen/BlueSkySeoul/blob/main/README.md
 
 
 ## Project Naming and Branding
