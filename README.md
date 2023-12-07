@@ -44,6 +44,9 @@ Usually, we can see that the level of fine dust is highly increasing in Spring a
 2. Analyzing bus data
 - We will analyze the number of people getting on and off at each bus stop in Seoul because we thought that the large floating population will cause a high concentration of fine dust.
 
+3. Potential Challenges
+- Refining outdoor fine dust reduction devices installation criteria Collect road traffic counts in addition to bus boarding and alighting counts for more efficient installation locations.
+
 Through the above process, we will do:
 i. Installation of outdoor fine dust reduction devices at the top 10 stops for the number of people getting on and off.
 ii. Road cleaning vehicle routes by clustering the top 100 stops for getting on and off.
